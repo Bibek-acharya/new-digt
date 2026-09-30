@@ -1,0 +1,5 @@
+export const blogPosts = [
+  { slug: "why-a-chautari-still-beats-a-conference-room", title: "Why a chautari still beats a conference room", excerpt: "A practical look at the conversations and trust that make collaborative work move.", category: "Culture", date: "2026-01-15", readTime: "4 min read", gradient: ["teal", "leaf"] as [string, string] },
+  { slug: "physiotherapy-at-home-what-we-learned-from-200-sessions", title: "Physiotherapy at home: what we learned from 200 sessions", excerpt: "Lessons from designing a calmer, more accessible recovery experience in Kathmandu.", category: "Health-Tech", date: "2026-02-12", readTime: "6 min read", gradient: ["navy", "teal"] as [string, string] },
+  { slug: "five-seo-mistakes-nepalese-brands-keep-making", title: "Five SEO mistakes Nepalese brands keep making", excerpt: "The search fundamentals teams can fix before spending more on acquisition.", category: "Digital Marketing", date: "2026-03-05", readTime: "5 min read", gradient: ["gold", "leaf"] as [string, string] },
+];
